@@ -20,7 +20,7 @@ npm install
 npm run client:install
 ```
 
-Rename `.env.sample` to `.env` and fill with yours credentials
+Rename `.env.sample` to `.env` and fill with your credentials
 
 To run app in development mode
 ```
